@@ -18,14 +18,14 @@ Steps
 3. https://www.gitkraken.com/download
 4. Compresses 'blob' data 'Hello, BSESG' | git hash-object -w --stdin (standard input)
 5. 14/0'Hello, BSESG' | 
-5. tree .git
+6. tree .git
 7. echo 'Hello, World' > hello.txt
 	 git add hello.txt
 		git commit -m "Initial commit"
 8. git cat-file -t 
 	git cat-file -p <7 chars>
 9. git log --oneline
-9. HEADS points to branches, branches point to commits
+10. HEADS points to branches, branches point to commits
 
 
 Next Workshop
