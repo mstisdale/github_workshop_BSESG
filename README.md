@@ -1,4 +1,4 @@
-# github_workshopl_BSESG
+# github_workshop_BSESG
 Materials for GitHub BSESG workshops
 
 Presentation 
