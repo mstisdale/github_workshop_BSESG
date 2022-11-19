@@ -1,7 +1,7 @@
 # github_workshop_BSESG
 Materials for GitHub BSESG workshops
 
-Presentation 
+### Presentation 
 
 https://github.com/mchinedo
 https://rahuldkjain.github.io/gh-profile-readme-generator/
@@ -10,7 +10,7 @@ https://github.com/anuraghazra/github-readme-stats
 https://github.com/antonkomarev/github-profile-views-counter
 
 
-Steps
+### Steps
 
 1. https://chocolatey.org/install
 2. https://community.chocolatey.org/packages/git
@@ -28,7 +28,7 @@ Steps
 10. HEADS points to branches, branches point to commits
 
 
-Next Workshop
+### Next Workshop
 
 Merging
 History
